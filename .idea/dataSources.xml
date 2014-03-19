@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" hash="1524562541">
+    <data-source source="LOCAL" name="Rails my_gists: production" uuid="d87f9af9-854b-4256-9784-927afa851035">
+      <driver-ref>postgresql</driver-ref>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql:gists</jdbc-url>
+      <libraries />
+    </data-source>
+  </component>
+</project>
+
